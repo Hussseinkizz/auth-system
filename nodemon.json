@@ -1,0 +1,7 @@
+{
+    "watch": [
+        "src"
+    ],
+    "ext": ".ts,.js",
+    "exec": "vite-node ./src/index.ts"
+}
